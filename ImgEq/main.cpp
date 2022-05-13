@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include "include/CImg.h"
+#include "SequencialEQ.h"
 #define cimg_display 1
 using namespace cimg_library;
 
@@ -29,6 +30,9 @@ int main() {
     hello();
     CImg<unsigned char> image_input("/home/tom/Documents/Algorithms/ImgEq/picture.jpg");
     CImgDisplay disp_input(image_input, "input");
+
+    SequencialEQ hello = SequencialEQ();
+    hello.helloWorld();
 
     std::cout << "Pixel data" << std::endl;
     std::cout << int(image_input[0]) << std::endl;

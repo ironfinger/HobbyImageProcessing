@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/tom/Documents/Algorithms/ImgEq/cmake-build-debug",
-		"source" : "/home/tom/Documents/Algorithms/ImgEq"
+		"build" : "/home/tom/Documents/Repos/HobbyImageProcessing/ImgEq/cmake-build-debug",
+		"source" : "/home/tom/Documents/Repos/HobbyImageProcessing/ImgEq"
 	},
 	"version" : 
 	{

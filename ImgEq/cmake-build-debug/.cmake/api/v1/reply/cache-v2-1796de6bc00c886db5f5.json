@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/tom/Documents/Algorithms/ImgEq/cmake-build-debug"
+			"value" : "/home/tom/Documents/Repos/HobbyImageProcessing/ImgEq/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -639,7 +639,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/tom/Documents/Algorithms/ImgEq"
+			"value" : "/home/tom/Documents/Repos/HobbyImageProcessing/ImgEq"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1174,50 +1174,6 @@
 			"value" : "[/usr/include][/usr/lib/x86_64-linux-gnu/libX11.so][c ][v()]"
 		},
 		{
-			"name" : "JPEG_INCLUDE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Path to a file."
-				}
-			],
-			"type" : "PATH",
-			"value" : "JPEG_INCLUDE_DIR-NOTFOUND"
-		},
-		{
-			"name" : "JPEG_LIBRARY_DEBUG",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Path to a library."
-				}
-			],
-			"type" : "FILEPATH",
-			"value" : "JPEG_LIBRARY_DEBUG-NOTFOUND"
-		},
-		{
-			"name" : "JPEG_LIBRARY_RELEASE",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Path to a library."
-				}
-			],
-			"type" : "FILEPATH",
-			"value" : "JPEG_LIBRARY_RELEASE-NOTFOUND"
-		},
-		{
 			"name" : "OpenCLAttempt_BINARY_DIR",
 			"properties" : 
 			[
@@ -1227,7 +1183,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/tom/Documents/Algorithms/ImgEq/cmake-build-debug"
+			"value" : "/home/tom/Documents/Repos/HobbyImageProcessing/ImgEq/cmake-build-debug"
 		},
 		{
 			"name" : "OpenCLAttempt_IS_TOP_LEVEL",
@@ -1251,7 +1207,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/tom/Documents/Algorithms/ImgEq"
+			"value" : "/home/tom/Documents/Repos/HobbyImageProcessing/ImgEq"
 		},
 		{
 			"name" : "X11_ICE_INCLUDE_PATH",
